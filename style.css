@@ -104,3 +104,9 @@ h2{
 .k{
   font-size: 100px;
 }
+
+.head{
+    /* text-align: center; */
+ margin: auto;
+ margin-top: 0px;
+}
