@@ -1,0 +1,106 @@
+body {
+    background-color: lightblue;
+}
+
+.hi {
+    margin: auto;
+    border-width: thin medium thick 10px;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Tilt Warp', cursive;
+    background-color: black;
+    color: cyan;
+}
+
+
+#carouselExample {
+    width: 100px;
+    text-align: center;
+ margin: auto;
+}
+
+.carousel-inner img {
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+h2{
+    font-family: 'Tilt Warp', cursive;
+}
+
+.carousel {
+    width:640px;
+    height:360px;
+  }
+
+
+  .bye{
+    margin: 30px 30px 30px 50px;
+  }
+
+  .die{
+    height: 100px
+
+  }
+
+
+  .carousel .item {
+    height: 300px;
+  }
+
+  .carousel-inner{
+    // height: 100px;
+}
+
+.item, img{
+    height: 50% !important;
+    width:  100% !important;
+    border: 1px solid black;
+}
+
+  .test{
+    width: 400px;
+    margin-left:200px;
+    border: solid Black;
+    background-color: white;
+  }
+
+  .lie{
+    border-color: black;
+    border-style: thick;
+  }
+
+  .ok{
+    font-size: 35px;
+  }
+
+
+.desk{
+  font-family: 'Playfair Display', serif;
+}
+
+.phone{
+  font-size: 80px;
+}
+
+.we{
+  text-align: center;
+  background-color: black;
+  color: Cyan;
+  font-size: 20px;
+}
+
+.fly{
+  margin-top: 108px;
+}
+
+.giving-up{
+  color: white
+}
+
+.k{
+  font-size: 100px;
+}
